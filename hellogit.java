@@ -1,1 +1,1 @@
-System.out.println("Hello GIT 1")
+System.out.println("Hello GITHub")
